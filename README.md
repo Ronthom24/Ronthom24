@@ -26,9 +26,10 @@ Landing page and booking flow for a community family get-together in Bengaluru: 
 **Stack:** HTML · CSS · JavaScript · Google Apps Script · Google Sheets/Drive · Netlify
 🔗 [Live site](https://sangamam2k26.netlify.app) · [Code](https://github.com/Ronthom24/Onam-Booking-app)
 
-### Pitchside: football learning platform (publishing soon)
+### [Pitchside](https://github.com/Ronthom24/pitchside): football learning platform
 Helps beginners learn the game, explore tactics and browse real clubs, players and competitions, and find a club that matches them.
 **Stack:** React · TypeScript · Vite · Tailwind CSS · FastAPI · SQLAlchemy · PostgreSQL (Neon)
+🔗 [Code](https://github.com/Ronthom24/pitchside)
 
 ### AC Twin: carbon and water footprint tracker (team project)
 Student-focused tracker for air-conditioner energy, carbon and water use, with a browser extension and ML models. Built as a team mini-project.
