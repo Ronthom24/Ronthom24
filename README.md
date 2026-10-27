@@ -13,7 +13,8 @@ Auction history, player price estimates, a best-XI-for-a-budget builder and a WP
 ### [MUN Buddy](https://github.com/Ronthom24/MUN_Buddy): Model UN conference platform
 Registration, committee assignment, announcements, QR attendance, results and verifiable certificates, with separate organizer, delegate and admin views.
 **Stack:** Next.js (App Router) · TypeScript · Tailwind · Node/Express · PostgreSQL (Supabase) · Vercel · Render
-🔗 [Live site](https://mun-buddy-mu.vercel.app) · [Code](https://github.com/Ronthom24/MUN_Buddy)
+🔗 [Live site](https://mun-buddy-mu.vercel.app) 
+ · [Code](https://github.com/Ronthom24/MUN_Buddy)
 
 ### [Cric Auction IQ](https://github.com/Ronthom24/IPL-Auction-Analysis): IPL auction price predictor
 Predicts auction prices from real player stats across 941 auctions (2009-2026), explains each prediction, and ranks value-for-money picks and franchise spending.
