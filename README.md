@@ -5,10 +5,10 @@ Every project below is built end to end by me, from the database and API to the 
 
 ## Projects
 
-### [CricOptics](https://criclens-ochre.vercel.app): IPL & WPL auction analysis
+### [CricOptics](https://beta.cricoptics.com): IPL & WPL auction analysis
 Auction history, player price estimates, a best-XI-for-a-budget builder and a WPL auction forecast, on top of ball-by-ball match data.
 **Stack:** Next.js 14 · Tailwind · shadcn/ui · FastAPI · scikit-learn · PostgreSQL (Neon) · Vercel · Render
-🔗 [Live site](https://criclens-ochre.vercel.app)
+🔗 [Live site](https://beta.cricoptics.com)
 
 ### [MUN Buddy](https://github.com/Ronthom24/MUN_Buddy): Model UN conference platform
 Registration, committee assignment, announcements, QR attendance, results and verifiable certificates, with separate organizer, delegate and admin views.
