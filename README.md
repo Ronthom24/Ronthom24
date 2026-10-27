@@ -35,4 +35,4 @@ Student-focused tracker for air-conditioner energy, carbon and water use, with a
 **Stack:** React · TypeScript · Vite · Tailwind CSS · Python · scikit-learn · Docker
 
 ## Contact
-GitHub: [@Ronthom24](https://github.com/Ronthom24) · Email: ronnie.thomson415@gmail.com
+LinkedIn: [Ronnie Thomson](https://www.linkedin.com/in/ronnie-thomson2404415/) · GitHub: [@Ronthom24](https://github.com/Ronthom24) · Email: ronnie.thomson415@gmail.com
